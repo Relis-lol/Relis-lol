@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Relis</h1>
+  <h1>👋 Hi, I’m Björn (aka Relis) </h1>
   <p><b>SQL & Data Analytics Enthusiast</b> | Building projects, tools, and resources for data-driven insights.</p>
   <img src="https://img.shields.io/badge/SQL-PostgreSQL-blue?logo=postgresql&logoColor=white" alt="SQL Badge"/>
   <img src="https://img.shields.io/badge/BI-PowerBI-yellow?logo=powerbi&logoColor=white" alt="Power BI Badge"/>
