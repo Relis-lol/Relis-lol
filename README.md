@@ -23,6 +23,7 @@
   <li><a href="https://github.com/Relis-lol/Riftbound"><b>Riftbound Data</b></a> – Card & booster data exploration in SQL</li>
   <li><a href="https://github.com/Relis-lol/audible-sql-tracker"><b>Audible SQL Tracker</b></a> – Track and analyze audiobook purchases with SQL</li>
   <li><a href="https://github.com/Relis-lol/study-cheatsheets"><b>Study Cheatsheets</b></a> – Curated notes & quick-reference summaries (SQL, BI, Data Analytics)</li>
+  <li><a href="https://github.com/Relis-lol/Learning-Journey-DataCamp-"><b>Learning Journey – DataCamp</b></a> – Practice projects & notebooks from DataCamp (SQL, Python, Analytics)</li>
 </ul>
 
 ---
