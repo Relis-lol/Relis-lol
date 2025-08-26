@@ -20,8 +20,8 @@
 <h2>🚀 Featured Projects</h2>
 <ul>
   <li><a href="https://github.com/Relis-lol/ai-market-insights"><b>AI Market Insights</b></a> – News & stock impact analytics for AI companies (SQL + BI)</li>
-  <li><a href="https://github.com/Relis-lol/Riftbound"><b>Riftbound Data</b></a> – Card & booster data exploration in SQL</li>
-  <li><a href="https://github.com/Relis-lol/audible-sql-tracker"><b>Audible SQL Tracker</b></a> – Track and analyze audiobook purchases with SQL</li>
+  <li><a href="https://github.com/Relis-lol/Riftbound"><b>Riftbound Data</b></a> – Managing large card & booster datasets in SQL to compare drop rates and validate distributions</li>
+  <li><a href="https://github.com/Relis-lol/audible-sql-tracker"><b>Audible SQL Tracker</b></a> – Simple SQL database to manage audiobook credits and purchases, focused on inserts, updates, and basic queries</li>
   <li>x</li>
   
 </ul>
