@@ -22,7 +22,7 @@
   <li><a href="https://github.com/Relis-lol/ai-market-insights"><b>AI Market Insights</b></a> – News & stock impact analytics for AI companies (SQL + BI)</li>
   <li><a href="https://github.com/Relis-lol/Riftbound"><b>Riftbound Data</b></a> – Card & booster data exploration in SQL</li>
   <li><a href="https://github.com/Relis-lol/audible-sql-tracker"><b>Audible SQL Tracker</b></a> – Track and analyze audiobook purchases with SQL</li>
-  <li><a href="https://github.com/Relis-lol/study-cheatsheets"><b>Study Cheatsheets</b></a> – Curated notes & quick-reference summaries (SQL, BI, Data Analytics)</li>
+  <li>x</li>
   
 </ul>
 
