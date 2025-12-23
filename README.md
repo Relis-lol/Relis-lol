@@ -21,7 +21,10 @@
 <ul>
 
   <li><a href="https://github.com/Relis-lol/audible-sql-tracker"><b>Audible SQL Tracker</b></a> – Simple SQL database to manage audiobook credits and purchases, focused on inserts, updates, and basic queries</li>
-  <li><a href="https://github.com/Relis-lol/EnergyDataDE)"></li>
+  <li>
+  <a href="https://github.com/Relis-lol/EnergyDataDE"><b>EnergieDatenDE – Electricity Market Analysis</b></a>
+  – Data Engineering & BI project analyzing German and EU electricity market data, covering spot prices, generation mix, ETL pipelines, data warehousing, and BI dashboards with an economic focus
+  </li>
   
 </ul>
 
