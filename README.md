@@ -21,7 +21,7 @@
 <ul>
 
   <li><a href="https://github.com/Relis-lol/audible-sql-tracker"><b>Audible SQL Tracker</b></a> – Simple SQL database to manage audiobook credits and purchases, focused on inserts, updates, and basic queries</li>
-  <li>x</li>
+  <li><a href="https://github.com/Relis-lol/EnergyDataDE)"></li>
   
 </ul>
 
