@@ -30,7 +30,7 @@
 
   <li>
     <a href="https://github.com/Relis-lol/audible-sql-tracker"><b>Audible SQL Tracker</b></a>
-    – Small SQL project (background: schema design, queries, and structured data handling)
+    – A single downloadable database file containing my full Audible purchase/library history. Mainly kept as a personal dataset and proof-of-work for structured data.
   </li>
 </ul>
 
