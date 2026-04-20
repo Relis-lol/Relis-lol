@@ -28,6 +28,11 @@
     – Step-by-step build: Linux server → API + database → public website dashboards → monitoring/logging → Azure integration → CI/CD → architecture diagram
   </li>
 
+<li>
+  <a href="https://github.com/Relis-lol/bitburner-automation-system"><b>Bitburner Automation System</b></a>
+  – Distributed task orchestration system (hack/grow/weaken) with dynamic resource allocation across multiple nodes, simulating real-world workload scheduling.
+</li>
+
   <li>
     <a href="https://github.com/Relis-lol/audible-sql-tracker"><b>Audible SQL Tracker</b></a>
     – A single downloadable database file containing my full Audible purchase/library history. Mainly kept as a personal dataset and proof-of-work for structured data.
