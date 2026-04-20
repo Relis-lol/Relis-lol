@@ -30,7 +30,7 @@
 
 <li>
   <a href="https://github.com/Relis-lol/bitburner-automation-system"><b>Bitburner Automation System</b></a>
-  – Distributed task orchestration system (hack/grow/weaken) with dynamic resource allocation across multiple nodes, simulating real-world workload scheduling.
+  – Automation system built within the programming game “Bitburner”, focusing on distributed task execution (hack/grow/weaken) and dynamic resource allocation across multiple nodes.
 </li>
 
   <li>
