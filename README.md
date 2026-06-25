@@ -1,55 +1,113 @@
 <div align="center">
-  <h1>👋 Hi, I’m Björn (aka Relis)</h1>
-  <p><b>Cloud & Infrastructure Enthusiast</b> | Linux • Azure • Automation • Observability</p>
 
-  <img src="https://img.shields.io/badge/OS-Linux-black?logo=linux&logoColor=white" alt="Linux Badge"/>
-  <img src="https://img.shields.io/badge/Cloud-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white" alt="Azure Badge"/>
-  <img src="https://img.shields.io/badge/Access-SSH-4E9A06?logo=gnu-bash&logoColor=white" alt="SSH Badge"/>
-  <img src="https://img.shields.io/badge/Security-UFW%20Firewall-critical" alt="Firewall Badge"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="CI/CD Badge"/>
+# 👋 Hi, I'm Björn (Relis)
+
+**Junior Cloud • Infrastructure • Platform Engineering**
+
+Building real infrastructure projects with Linux, Docker, Python, PostgreSQL and Azure technologies.
+
+![Linux](https://img.shields.io/badge/Linux-Ubuntu_Server-E95420?logo=ubuntu\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?logo=postgresql\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Monitor%20%26%20Arc-0078D4?logo=microsoftazure\&logoColor=white)
+
 </div>
 
 ---
 
-<h2>📌 About Me</h2>
-<ul>
-  <li>Building a <b>hybrid homelab + Azure platform</b> with real infrastructure steps and clear documentation</li>
-  <li>Current baseline: <b>Linux server online</b>, SSH access configured, firewall enabled</li>
-  <li>Goal: a public web dashboard with <b>EVE Online market history</b>, graphs, performance metrics, and access logs</li>
-  <li>Background skill: <b>SQL & relational data modeling</b> (used as part of the platform)</li>
-</ul>
+# 🚀 About Me
+
+I enjoy building production-style infrastructure rather than isolated coding exercises.
+
+My projects focus on Linux administration, backend services, automation, observability, APIs, databases, and self-hosted platforms. Every project is fully documented to demonstrate both implementation and engineering decisions.
+
+Current goal:
+
+**Start my career in Cloud, Platform Engineering, or SRE.**
 
 ---
 
-<h2>🚀 Featured Projects</h2>
-<ul>
-  <li>
-    <a href="https://github.com/Relis-lol/homelab-hybrid-cloud-platform"><b>Homelab Hybrid Cloud Platform</b></a>
-    – Step-by-step build: Linux server → API + database → public website dashboards → monitoring/logging → Azure integration → CI/CD → architecture diagram
-  </li>
+# ⭐ Featured Projects
 
-<li>
-  <a href="https://github.com/Relis-lol/bitburner-automation-system"><b>Bitburner Automation System</b></a>
-  – Automation system built within the programming game “Bitburner”, focusing on distributed task execution (hack/grow/weaken) and dynamic resource allocation across multiple nodes.
-</li>
+## 🌐 EVE Trade Intelligence Platform
 
-  <li>
-    <a href="https://github.com/Relis-lol/audible-sql-tracker"><b>Audible SQL Tracker</b></a>
-    – A single downloadable database file containing my full Audible purchase/library history. Mainly kept as a personal dataset and proof-of-work for structured data.
-  </li>
-</ul>
+**Live:** https://eve-tradelooper.com/
+
+A production-style market intelligence platform built around a self-hosted Linux server.
+
+Highlights:
+
+* Ubuntu Server + Docker Compose
+* FastAPI backend
+* PostgreSQL analytics database
+* Automated ESI data ingestion
+* Public production deployment
+* Cloudflare Dynamic DNS
+* Azure Monitor & Azure Arc
+* Discord alerting
+* ESP32 infrastructure dashboard
+* Interactive frontend with multiple analytics tools
+* AI-assisted AHN news network
+
+**177+ commits • Live platform • Comprehensive technical documentation**
+
+➡️ https://github.com/Relis-lol/homelab-hybrid-cloud-platform
 
 ---
 
-<h2>📈 Current Focus</h2>
-<p>
-Turning a working Linux server into a <b>documented hybrid platform</b>:
-API automation, database-backed services, observability (logs/metrics), and Azure-based integration with CI/CD.
-</p>
+## 🤖 Bitburner Automation System
+
+Automation framework developed inside the Bitburner programming game.
+
+Focus areas:
+
+* Distributed task scheduling
+* Resource optimization
+* Autonomous decision making
+* Modular automation architecture
+
+➡️ https://github.com/Relis-lol/bitburner-automation-system
+
+---
+
+## 📚 Audible SQL Tracker
+
+Personal SQL project built around a structured Audible purchase history.
+
+Focus:
+
+* Relational database design
+* SQL querying
+* Data organization
+* Personal analytics dataset
+
+➡️ https://github.com/Relis-lol/audible-sql-tracker
+
+---
+
+# 🛠️ Technologies
+
+* Linux (Ubuntu Server)
+* Docker & Docker Compose
+* Python
+* FastAPI
+* PostgreSQL
+* JavaScript
+* HTML / CSS
+* Cloudflare
+* Azure Monitor
+* Azure Arc
+* Git & GitHub
+* Mermaid
+* REST APIs
 
 ---
 
 <div align="center">
-  <sub>⚡ Build it, document it, automate it ⚡</sub>
+
+**Build • Automate • Monitor • Improve**
+
 </div>
 
