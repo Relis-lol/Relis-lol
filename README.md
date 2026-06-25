@@ -51,7 +51,7 @@ Highlights:
 * Interactive frontend with multiple analytics tools
 * AI-assisted AHN news network
 
-**177+ commits • Live platform • Comprehensive technical documentation**
+**Live platform • Comprehensive technical documentation**
 
 ➡️ https://github.com/Relis-lol/homelab-hybrid-cloud-platform
 
@@ -85,29 +85,6 @@ Focus:
 
 ➡️ https://github.com/Relis-lol/audible-sql-tracker
 
----
-
-# 🛠️ Technologies
-
-* Linux (Ubuntu Server)
-* Docker & Docker Compose
-* Python
-* FastAPI
-* PostgreSQL
-* JavaScript
-* HTML / CSS
-* Cloudflare
-* Azure Monitor
-* Azure Arc
-* Git & GitHub
-* Mermaid
-* REST APIs
-
----
-
-<div align="center">
-
-**Build • Automate • Monitor • Improve**
 
 </div>
 
