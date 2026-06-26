@@ -4,7 +4,7 @@
 
 **Junior Cloud • Infrastructure • Platform Engineering**
 
-Building real infrastructure projects with Linux, Docker, Python, PostgreSQL and Azure technologies.
+Building real infrastructure projects with Linux, Docker, Python, PostgreSQL, Azure technologies and device-focused side projects.
 
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu_Server-E95420?logo=ubuntu\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker\&logoColor=white)
@@ -12,6 +12,8 @@ Building real infrastructure projects with Linux, Docker, Python, PostgreSQL and
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?logo=postgresql\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Monitor%20%26%20Arc-0078D4?logo=microsoftazure\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?logo=javascript\&logoColor=black)
+![Android](https://img.shields.io/badge/Android-WebView-3DDC84?logo=android\&logoColor=white)
 
 </div>
 
@@ -21,7 +23,7 @@ Building real infrastructure projects with Linux, Docker, Python, PostgreSQL and
 
 I enjoy building production-style infrastructure rather than isolated coding exercises.
 
-My projects focus on Linux administration, backend services, automation, observability, APIs, databases, and self-hosted platforms. Every project is fully documented to demonstrate both implementation and engineering decisions.
+My projects focus on Linux administration, backend services, automation, observability, APIs, databases, self-hosted platforms and practical hardware/software integrations. Every project is documented to show both implementation and engineering decisions.
 
 Current goal:
 
@@ -57,6 +59,31 @@ Highlights:
 
 ---
 
+## 👾 Cryptid Pet / Cryptid Arcade
+
+A completed hardware/software side project that turns an old Sony Xperia Z3 Compact into a dedicated Tamagotchi-style monster device.
+
+The project uses a single-file HTML5 game packaged into an Android APK with a custom WebView wrapper. The final APK runs fullscreen, hides normal phone navigation, keeps the screen awake, registers as launcher and makes the device behave like a dedicated pet handheld instead of a normal smartphone.
+
+Highlights:
+
+* HTML5 / CSS / Vanilla JavaScript
+* Custom Android WebView wrapper
+* Android 6 compatibility work
+* SVG-based dynamic monster rendering
+* Canvas and DOM-based arcade mini-games
+* Local save system
+* Hardware step detector integration
+* Movement, shake and time-of-day reactions
+* Manual Zepp OS watchface export experiment
+* External PC pipeline for generating and pushing the current animated pet appearance to an Amazfit watchface
+
+**Completed device project • Legacy Android downgrade • Sensor and wallpaper integration**
+
+➡️ https://github.com/Relis-lol/cryptid-pet
+
+---
+
 ## 🤖 Bitburner Automation System
 
 Automation framework developed inside the Bitburner programming game.
@@ -84,7 +111,4 @@ Focus:
 * Personal analytics dataset
 
 ➡️ https://github.com/Relis-lol/audible-sql-tracker
-
-
-</div>
 
