@@ -27,7 +27,7 @@ My focus is on complete, understandable systems rather than isolated coding exer
 
 Current goal:
 
-**Starting a junior role in Cloud, Infrastructure, DevOps Support or Linux-based platform operations.**
+**Starting a junior role in Cloud, Infrastructure, DevOps or Linux-based platform operations.**
 
 ---
 
