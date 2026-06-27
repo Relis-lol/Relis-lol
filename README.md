@@ -21,9 +21,9 @@ Building practical infrastructure projects with Linux, Docker, Python, PostgreSQ
 
 # 🚀 About Me
 
-I build hands-on infrastructure and software projects to develop practical experience in cloud, Linux, automation, backend services and monitoring.
+I build hands-on infrastructure and software projects to gain practical experience in Linux, containers, backend services, databases, automation and monitoring.
 
-My focus is not on isolated coding exercises, but on complete systems: servers, containers, databases, APIs, scheduled workers, monitoring, alerts, documentation and small hardware/software integrations.
+My focus is on complete, understandable systems rather than isolated coding exercises: self-hosted services, Docker stacks, APIs, scheduled workers, databases, alerts, documentation and small device-focused side projects.
 
 Current goal:
 
@@ -41,12 +41,9 @@ Current goal:
 
 A self-hosted market intelligence platform built around a Linux server, Docker services, a PostgreSQL analytics database and a FastAPI backend.
 
-The project collects and processes real EVE Online market data, exposes API endpoints, serves an interactive web frontend and includes monitoring, alerting and operational documentation.
-
 Highlights:
 
-* Ubuntu Server deployment
-* Docker Compose multi-service stack
+* Ubuntu Server + Docker Compose
 * FastAPI backend API
 * PostgreSQL analytics database
 * Automated ESI market data ingestion
@@ -55,9 +52,8 @@ Highlights:
 * Azure Monitor and Azure Arc integration
 * Discord alerting
 * ESP32 infrastructure dashboard
-* Interactive frontend tools for market and trade analysis
-* AI-assisted AHN news module
-* Technical documentation focused on setup, architecture and operations
+* Interactive frontend tools
+* Technical documentation
 
 ➡️ https://github.com/Relis-lol/homelab-hybrid-cloud-platform
 
@@ -69,11 +65,9 @@ Highlights:
 
 A hardware/software side project that turns an old Sony Xperia Z3 Compact into a dedicated Tamagotchi-style monster device.
 
-The project uses a single-file HTML5 game packaged into an Android APK with a custom WebView wrapper. The final APK runs fullscreen, hides normal phone navigation, keeps the screen awake, registers as launcher and makes the phone behave more like a dedicated handheld device than a normal smartphone.
-
 Highlights:
 
-* HTML5, CSS and Vanilla JavaScript
+* HTML5 / CSS / Vanilla JavaScript
 * Custom Android WebView wrapper
 * Android 6 compatibility work
 * SVG-based dynamic monster rendering
@@ -81,9 +75,8 @@ Highlights:
 * Local save system
 * Hardware step detector integration
 * Movement, shake and time-of-day reactions
-* Legacy Android downgrade and device preparation
-* Manual Zepp OS watchface export experiment
-* External PC pipeline for generating and pushing the current animated pet appearance to an Amazfit watchface
+* Zepp OS watchface export experiment
+* External PC pipeline for animated pet watchface updates
 
 ➡️ https://github.com/Relis-lol/cryptid-pet
 
@@ -94,8 +87,6 @@ Highlights:
 **Status:** Completed / Archived · **Type:** Automation Project · **Focus:** JavaScript, Scheduling, Optimization
 
 Automation framework developed inside the Bitburner programming game.
-
-The project focuses on automated task execution, resource allocation and modular scripting logic in a simulated hacking environment.
 
 Focus areas:
 
@@ -115,8 +106,6 @@ Focus areas:
 
 Personal SQL project built around a structured Audible purchase history.
 
-The project is updated periodically and is used as a practical dataset for relational modeling, querying and personal analytics.
-
 Focus areas:
 
 * Relational database design
@@ -126,59 +115,3 @@ Focus areas:
 * Periodic data maintenance
 
 ➡️ https://github.com/Relis-lol/audible-sql-tracker
-
----
-
-# 🛠️ Technical Focus
-
-My current practical focus areas are:
-
-* Linux server administration
-* Docker and Docker Compose
-* PostgreSQL databases
-* Python backend services
-* FastAPI APIs
-* Scheduled workers and automation
-* Monitoring and alerting
-* Basic Azure monitoring concepts
-* Technical documentation
-* Small Android/WebView device projects
-
----
-
-# 📌 What This Profile Shows
-
-This profile is meant to show practical junior-level experience with real systems:
-
-* building and running self-hosted services
-* working with containers and databases
-* connecting backend APIs with frontend tools
-* documenting technical decisions
-* adding monitoring and alerting
-* maintaining projects beyond the first prototype
-
-I am still early in my professional cloud/infrastructure career, but I focus on building complete, understandable and maintainable projects instead of only small tutorial examples.
-
----
-
-# 🎯 Career Goal
-
-I am looking for an entry-level role where I can grow in:
-
-* Cloud Infrastructure
-* Linux Operations
-* DevOps Support
-* Platform Operations
-* Backend / Infrastructure Automation
-
-My strongest current areas are Linux, Docker, PostgreSQL, Python, documentation and practical troubleshooting.
-
----
-
-# 📫 Contact
-
-GitHub: https://github.com/Relis-lol
-
-Open to junior cloud, infrastructure and operations-focused opportunities.
-
-
