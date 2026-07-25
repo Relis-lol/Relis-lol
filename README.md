@@ -14,7 +14,6 @@ PostgreSQL, automation, monitoring and Azure fundamentals.
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?logo=postgresql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4?logo=microsoftazure&logoColor=white)
-![Monitoring](https://img.shields.io/badge/Focus-Monitoring_%26_Automation-555555)
 
 </div>
 
@@ -22,22 +21,12 @@ PostgreSQL, automation, monitoring and Azure fundamentals.
 
 ## About Me
 
-I build complete, understandable systems rather than isolated coding
-exercises.
+I build complete systems rather than isolated coding exercises: self-hosted
+services, Docker stacks, APIs, databases, scheduled workers, monitoring,
+alerting, backups and technical documentation.
 
-My projects combine Linux administration, containerized services, backend
-applications, databases, scheduled workers, monitoring, alerting, backups,
-security controls and technical documentation.
-
-I am currently preparing for my first professional role in:
-
-- Cloud and Platform Operations
-- Linux and Infrastructure Operations
-- Junior DevOps
-- Application and System Operations
-
-My technical foundation is Linux, supported by practical work with Docker,
-Python, PostgreSQL, Bash, networking and Azure fundamentals.
+My goal is a junior role in Cloud, Platform, Infrastructure or Linux
+Operations.
 
 ---
 
@@ -45,157 +34,66 @@ Python, PostgreSQL, Bash, networking and Azure fundamentals.
 
 ## 🌐 EVE Trade Intelligence Platform
 
-**Live, maintained and publicly accessible self-hosted data platform**
+**Live and maintained self-hosted data and intelligence platform**
 
-[![Live Platform](https://img.shields.io/badge/Live_Platform-eve--tradelooper.com-2ea44f?style=flat-square)](https://eve-tradelooper.com/)
-[![Technical Repository](https://img.shields.io/badge/GitHub-Architecture_%26_Documentation-181717?style=flat-square&logo=github)](https://github.com/Relis-lol/homelab-hybrid-cloud-platform)
+[Live Platform](https://eve-tradelooper.com/) ·
+[Technical Repository](https://github.com/Relis-lol/homelab-hybrid-cloud-platform)
 
-A self-hosted analysis and intelligence platform for EVE Online, built and
-operated on my own Linux infrastructure.
+A publicly available platform with around 20 market, industry, navigation,
+intelligence and PvE tools, operated on my own Linux infrastructure.
 
-The platform combines approximately 20 market, industry, navigation,
-intelligence and PvE tools with a technical wiki and automated data pipelines.
-It runs without user accounts, advertising or personal user tracking.
+**Stack:** Ubuntu Server · Docker Compose · FastAPI · PostgreSQL 16 · nginx ·
+Python workers · Cloudflare · Azure Arc · Azure Monitor
 
-### Current production scale
+**Current production scale:**
 
 - Approximately **7.5 million database rows written per day**
-- **124.3 million live rows** in PostgreSQL
+- **124.3 million live PostgreSQL rows**
 - **70 GB database** across **81 tables**
 - Approximately **9,650 orchestrated import runs per day**
-- **14 automated pipelines**
-- **7 integrated external data sources**
-- Approximately **30 external API endpoint integrations**
-- Public production deployment live since **July 2026**
+- **14 automated pipelines** using **7 external data sources**
 
-### Architecture
+The system includes automated imports, retention pruning, health checks,
+Discord alerting, rate limiting, daily off-volume backups, automatic backup
+fallback and an ESP32 infrastructure status display.
 
-- Ubuntu Server
-- Docker Compose
-- FastAPI backend
-- PostgreSQL 16
-- Vanilla JavaScript frontend
-- nginx reverse proxy
-- Modular Python worker architecture
-- Background killboard and RedisQ daemons
-- Cloudflare DNS, proxying and TLS
-- Azure Arc and Azure Monitor integration
-
-### Automation and operations
-
-- Incremental, rate-limit-aware API synchronization
-- Scheduled market, map, news and intelligence pipelines
-- `flock` protection against overlapping worker runs
-- Automatic service recovery after host restarts
-- Batch-based data retention and pruning
-- Health checks and Discord alerting
-- Daily off-volume PostgreSQL backups
-- Automatic backup fallback after storage failure
-- ESP32 hardware status dashboard
-
-### Security and reliability
-
-- HTTPS with Cloudflare origin certificates
-- nginx reverse-proxy isolation
-- Internal services restricted to Docker networks
-- SSH-key authentication
-- UFW and Fail2ban
-- Environment-based credentials
-- Token-protected write endpoints
-- Request rate limiting
-- Resource and backup-health monitoring
-- Documented incident reviews and operational lessons learned
-
-### Performance
-
-- Approximately **80 ms** measured homepage response over HTTPS
-- Approximately **1 ms** warm internal `/health` response
-- Static frontend delivery through nginx
-- Precomputed database snapshots for frequently requested data
-
-➡️ **Repository and technical documentation:**  
-https://github.com/Relis-lol/homelab-hybrid-cloud-platform
+➡️ https://github.com/Relis-lol/homelab-hybrid-cloud-platform
 
 ---
 
 # Additional Projects
 
-## 🚚 DispoHub
+### 🚚 [DispoHub](https://github.com/Relis-lol/dispohub)
 
 Open-source dispatch, driver and fleet-management system for small transport
 companies, built with FastAPI, PostgreSQL, Docker, role-based permissions,
-WebSocket chat, CSRF protection, multilingual driver interfaces and more than
-148 automated tests.
+multilingual interfaces and automated tests.
 
-➡️ https://github.com/Relis-lol/dispohub
+### 👾 [Cryptid Pet / Cryptid Arcade](https://github.com/Relis-lol/cryptid-pet)
 
----
+Tamagotchi-style Android device project using HTML5, vanilla JavaScript,
+Android WebView, local persistence and hardware sensor input.
 
-## 👾 Cryptid Pet / Cryptid Arcade
+### 🛠️ [Twitch Drops Fix for Chrome](https://github.com/Relis-lol/twitch-drops-fix-chrome)
 
-Hardware and software project that turns an older Android smartphone into a
-dedicated Tamagotchi-style device using HTML5, vanilla JavaScript, Android
-WebView, local persistence, dynamic rendering and hardware sensor input.
+Small Windows batch launcher that prevents Chrome background throttling from
+interrupting Twitch Drops tracking in a dedicated browser profile.
 
-➡️ https://github.com/Relis-lol/cryptid-pet
-
----
-
-## 🛠️ Twitch Drops Fix for Chrome
-
-Small Windows batch launcher that starts Twitch in a dedicated Chrome profile
-with background throttling disabled, allowing Drops watch time to continue
-tracking while the browser is not in the foreground.
-
-➡️ https://github.com/Relis-lol/twitch-drops-fix-chrome
-
----
-
-## 📚 Audible SQL Tracker
+### 📚 [Audible SQL Tracker](https://github.com/Relis-lol/audible-sql-tracker)
 
 Personal SQL project for relational data modelling, structured purchase-history
-storage and repeatable analytics queries using an independently maintained
-Audible dataset.
+storage and repeatable analytics queries.
 
-➡️ https://github.com/Relis-lol/audible-sql-tracker
+### 🤖 [Bitburner Automation System](https://github.com/Relis-lol/bitburner-automation-system)
 
----
-
-## 🤖 Bitburner Automation System
-
-Archived JavaScript automation framework exploring distributed task
-scheduling, dynamic resource allocation and autonomous coordination across
-multiple nodes inside the Bitburner programming game.
-
-➡️ https://github.com/Relis-lol/bitburner-automation-system
-
----
-
-## Certification
-
-### Microsoft Certified: Azure Fundamentals — AZ-900
-
-Foundational knowledge of cloud concepts, Azure architecture, core services,
-security, governance, management and pricing.
-
----
-
-## Current Focus
-
-- Deepening Linux administration skills
-- Bash and Python automation
-- Container deployment and operations
-- Monitoring, logging and incident analysis
-- Networking and infrastructure fundamentals
-- Azure administration fundamentals
-- Building a second production-focused portfolio project
+Archived JavaScript automation framework exploring distributed scheduling,
+resource allocation and autonomous task coordination.
 
 ---
 
 <div align="center">
 
-### Portfolio
-
-https://relis-lol.github.io/
+[Professional Portfolio](https://relis-lol.github.io/) ·
+[Live EVE Platform](https://eve-tradelooper.com/)
 
 </div>
