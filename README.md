@@ -72,6 +72,12 @@ multilingual interfaces and automated tests.
 Tamagotchi-style Android device project using HTML5, vanilla JavaScript,
 Android WebView, local persistence and hardware sensor input.
 
+### 🖼️ [JPEG Compare](https://github.com/Relis-lol/jpeg-compare)
+
+Standalone Windows desktop utility for exact byte-by-byte and bit-by-bit
+comparison of two JPEG files, including drag and drop, MD5/SHA-256 fingerprints
+and decoded pixel-difference analysis.
+
 ### 🛠️ [Twitch Drops Fix for Chrome](https://github.com/Relis-lol/twitch-drops-fix-chrome)
 
 Small Windows batch launcher that prevents Chrome background throttling from
