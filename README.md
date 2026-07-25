@@ -32,7 +32,7 @@ Operations.
 
 # Featured Project
 
-## 🌐 EVE Trade Intelligence Platform
+## 🌐 [EVE Trade Intelligence Platform](https://github.com/Relis-lol/homelab-hybrid-cloud-platform)
 
 **Live and maintained self-hosted data and intelligence platform**
 
@@ -56,8 +56,6 @@ Python workers · Cloudflare · Azure Arc · Azure Monitor
 The system includes automated imports, retention pruning, health checks,
 Discord alerting, rate limiting, daily off-volume backups, automatic backup
 fallback and an ESP32 infrastructure status display.
-
-➡️ https://github.com/Relis-lol/homelab-hybrid-cloud-platform
 
 ---
 
