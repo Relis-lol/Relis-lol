@@ -61,6 +61,13 @@ fallback and an ESP32 infrastructure status display.
 
 # Additional Projects
 
+### 🧬 [Ultrametrix — Exact Recompression Research](https://github.com/Relis-lol/ultrametrix-exact-recompression)
+
+Human-directed, AI-assisted research platform exploring byte-perfect
+recompression of already-compressed formats, with a Python research encoder,
+a native safe-Rust decoder, learned entropy contexts, portable distilled models
+and documented positive and negative experimental results.
+
 ### 🚚 [DispoHub](https://github.com/Relis-lol/dispohub)
 
 Open-source dispatch, driver and fleet-management system for small transport
