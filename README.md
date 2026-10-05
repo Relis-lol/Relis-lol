@@ -1,18 +1,19 @@
 # Hi, I'm Relis 👋
 
-This is my personal GitHub account for projects, experiments and tools.
+I build and experiment with self-hosted tools, automation, data projects and whatever else seems interesting.
 
-### Currently maintained
+## 🚀 Currently maintained
 
-**[EVE Trade Intelligence Platform](https://github.com/Relis-lol/homelab-hybrid-cloud-platform)**  
-Self-hosted tools and market intelligence for EVE Online.
+### [EVE Trade Intelligence Platform](https://github.com/Relis-lol/homelab-hybrid-cloud-platform)
 
-[Live site](https://eve-tradelooper.com/)
+Self-hosted tools, market data and intelligence for EVE Online.
 
-### Links
+→ [eve-tradelooper.com](https://eve-tradelooper.com/)
 
-[Portfolio](https://relis-lol.github.io/)
+## 🔗 Elsewhere
+
+→ [Portfolio](https://relis-lol.github.io/)
 
 ---
 
-Other repositories are personal projects, experiments or older work and may no longer be actively maintained.
+Most other repositories are personal projects, experiments or older work and may no longer be actively maintained.
